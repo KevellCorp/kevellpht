@@ -2,5 +2,6 @@ site_name: http://kevellpht.readthedocs.org
 pages:
 - [index.md, Home]
 - [about.md, About]
-- [Cleopatra.md, About Cleopatra]
+- [Cleopatra.md, Cleopatra]
+- [Phlagrant.md, Phlagrant]
 theme: readthedocs
