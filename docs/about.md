@@ -1,0 +1,7 @@
+The bootstrap file in the Pyramid core is the front controller of your Pyramid application, and does a few bits. Here's an overview.
+
+Sets exit codes. From anywhere in your application, you can set the exit code that the Pyramid application will exit with without immediately ending the application
+
+Supplies parameters to the application. Defaults to using CLI parameters, but you can inject a PHP array, or environments variables containing JSON. This can be extended to use parameters from anywhere.
+
+Chains the execution of controllers until one results in a view output, then processes the view and ends application exeution.
