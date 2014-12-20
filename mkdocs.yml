@@ -4,7 +4,7 @@ pages:
 - [about.md, About]
 - [Introduction.md, Introduction]
 - [Installation.md, Installation]
-- [Cleopatra/Cleopatra.md, Cleopatra.md]
-- [Phlagrant/Phlagrant.md, Phlagrant.md]
+- [Cleopatra/Cleopatra.md, Cleopatra]
+- [Phlagrant/Phlagrant.md, Phlagrant]
 - ["Getting Started.md", "Getting Started"]
 theme: readthedocs
