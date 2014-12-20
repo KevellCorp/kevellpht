@@ -2,9 +2,9 @@ site_name: http://kevellpht.readthedocs.org
 pages:
 - [index.md, Home]
 - [about.md, About]
-- [Cleopatra.md, Cleopatra]
-- [Phlagrant.md, Phlagrant]
 - [Introduction.md, Introduction]
 - [Installation.md, Installation]
+- [Cleopatra.md, Cleopatra]
+- [Phlagrant.md, Phlagrant]
 - ["Getting Started.md", "Getting Started"]
 theme: readthedocs
