@@ -7,4 +7,4 @@ pages:
 - [Cleopatra/Cleopatra.md, Cleopatra]
 - [Phlagrant/Phlagrant.md, Phlagrant]
 - ["Getting Started.md", "Getting Started"]
-theme: readthedocs
+theme: Bootstrap
