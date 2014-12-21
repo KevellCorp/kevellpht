@@ -1,4 +1,7 @@
 site_name: http://kevellpht.readthedocs.org
+include_search: true
+theme_dir: ./theme/mkdocs/
+theme_center_lead: false
 pages:
 - [index.md, Home]
 - [about.md, About]
